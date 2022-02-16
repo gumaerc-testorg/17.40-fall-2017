@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: ba7eb892-ef03-de90-41d8-0aa5367823eb
 title: First Paper Assignment
 uid: e051eeb7-5107-0e83-50cd-612e562c1b90
