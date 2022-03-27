@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f0185187-cfaa-57bc-dcd1-6b01adf630c4
 resourcetype: Document
 title: '17.40F17 American Foreign Policy Lecture Slides: United States and WWI'
 uid: c8dccbc8-4f57-90e5-3b51-6b0160850d06

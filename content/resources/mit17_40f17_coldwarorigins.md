@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f0185187-cfaa-57bc-dcd1-6b01adf630c4
 resourcetype: Document
 title: '17.40F17 American Foreign Policy Lecture Slides: Cold War Origins and Korean
   War Intervention'

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f0185187-cfaa-57bc-dcd1-6b01adf630c4
 resourcetype: Document
 title: '17.40F17 American Foreign Policy Lecture Slides: Predicting the Future'
 uid: df2f01d4-cfdb-35c0-6167-b04ac7e234b3

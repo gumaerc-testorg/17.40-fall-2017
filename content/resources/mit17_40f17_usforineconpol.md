@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f0185187-cfaa-57bc-dcd1-6b01adf630c4
 resourcetype: Document
 title: '17.40F17 American Foreign Policy Lecture Slides: U.S. Foreign Economic Policy'
 uid: 133f15fe-5bf3-2aea-fc04-019caf09e788

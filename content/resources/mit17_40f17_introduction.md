@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f0185187-cfaa-57bc-dcd1-6b01adf630c4
 resourcetype: Document
 title: '17.40F17 American Foreign Policy Lecture Slides: Introduction'
 uid: 2c558f6a-53d8-7fc1-719e-85a7b6fa67ed

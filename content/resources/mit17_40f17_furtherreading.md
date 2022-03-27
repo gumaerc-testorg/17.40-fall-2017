@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 7c002606-d998-55aa-4912-3d919e518bce
 resourcetype: Document
 title: '17.40F17 American Foreign Policy Readings: Further Readings'
 uid: 32ae4afc-9ec7-bcc3-5ec0-332a31edffec
