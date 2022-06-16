@@ -1,12 +1,10 @@
 ---
 content_type: page
-learning_resource_types:
-- Readings
-ocw_type: CourseSection
+description: This section includes the course readings.
+draft: false
 title: Readings
 uid: 7c002606-d998-55aa-4912-3d919e518bce
 ---
-
 \[G\] = Gaddis, John Lewis. _Strategies of Containment: A Critical Appraisal of American National Security Policy during the Cold War_. Oxford University Press, 2005. ISBN: 9780195174472. \[Preview with [Google Books](https://books.google.com/books?id=4KWNMBsI588C&pg=PAfrontcover#v=onepage&q&f=false)\]
 
 \[H\] = Herring, George C. _America's Longest War: The United States and Vietnam, 1950-1975_. 5th edition. McGraw-Hill, 2013. ISBN: 9780073513256. \[Preview with [Google Books](https://books.google.com/books?id=DGt6CgAAQBAJ&pg=PAfrontcover#v=onepage&q&f=false)\]
@@ -15,51 +13,9 @@ uid: 7c002606-d998-55aa-4912-3d919e518bce
 
 \[P\] = Paterson, Thomas G., J. Garry Clifford, Robert Brigham, et al. _American Foreign Relations: A History, Volume 2: Since 1895_. 8th edition. Wadsworth Publishing, 2014. ISBN: 9781285433332. 
 
-For additional information related to the course topics, see [Further Readings (PDF)]({{< baseurl >}}/resources/mit17_40f17_furtherreading).
+For additional information related to the course topics, see {{% resource_link 32ae4afc-9ec7-bcc3-5ec0-332a31edffec "Further Readings (PDF)" %}}.
 
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
-SES #
-{{< thclose >}}
-{{< thopen >}}
-TOPICS
-{{< thclose >}}
-{{< thopen >}}
-READINGS
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
-**I. Theories and Strategies**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-1
-{{< tdclose >}}
-{{< tdopen >}}
-Introduction
-{{< tdclose >}}
-{{< tdopen >}}
-No readings assigned 
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-2
-{{< tdclose >}}
-{{< tdopen >}}
-Power and Security: Overview of U.S. Foreign Policy Since 1914
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}SES #{{< thclose >}}{{< thopen >}}TOPICS{{< thclose >}}{{< thopen >}}READINGS{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen colspan="3" >}}**I. Theories and Strategies**{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}1{{< tdclose >}}{{< tdopen >}}Introduction{{< tdclose >}}{{< tdopen >}}No readings assigned {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}2{{< tdclose >}}{{< tdopen >}}Power and Security: Overview of U.S. Foreign Policy Since 1914{{< tdclose >}}{{< tdopen >}}
 
 A map of the world scaled to gross domestic product (GDP) size designed by Edwin 0. Reischauer, in three versions (plain, Germania and Sovietania). _New York Times Magazine_, November 7, 1976, pp. 35. 
 
@@ -67,27 +23,15 @@ Kennedy, Paul. Tables 6, 17, 18, 30, 31, 35, and Chart 2. From _The Rise and Fal
 
 [List of countries by GDP (nominal)](https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)), Wikipedia.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Wealth (Map 169)(PDF)](http://archive.worldmapper.org/posters/worldmapper_map169_ver5.pdf), Worldmapper.org.
+[Wealth (Map 169)(PDF)](http://archive.worldmapper.org/posters/worldmapper_map169_ver5.pdf), Worldmapper.org.
 
 Oye, Kenneth A., Robert J. Lieber,  and Donald Rothchild. Table 4-1 in _Eagle in a New World: American Grand Strategy in the Post-Cold War Era_. HarperCollins, 1992. ISBN: 9780065001433. 
 
 _The distribution of global economic and military power during 1750–1986 is summarized by the tables in Kennedy and Oye. You can ignore the text in Kennedy._
 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}3–5{{< tdclose >}}{{< tdopen >}}Theories of U.S. Foreign Policy{{< tdclose >}}{{< tdopen >}}
 
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-3–5
-{{< tdclose >}}
-{{< tdopen >}}
-Theories of U.S. Foreign Policy
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-Van Evera, Stephen. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Offense/Defense Theory in a Nutshell." (PDF)](https://drive.google.com/file/d/1dlhW79Ah2I05ctRvkw8IcyvAtuKI8ZkA/view) August 27, 2017, revised March 7, 2018, pp. 1–11. 
+Van Evera, Stephen. ["Offense/Defense Theory in a Nutshell." (PDF)](https://drive.google.com/file/d/1dlhW79Ah2I05ctRvkw8IcyvAtuKI8ZkA/view) August 27, 2017, revised March 7, 2018, pp. 1–11. 
 
 _Your instructor's summary of the argument that states are more belligerent and war is more likely when conquest is easy. A key related argument: international conflict arises largely from the "security dilemma"-­ the tendency of states to threaten others' security by their efforts to secure themselves._
 
@@ -99,7 +43,7 @@ _Walt presents competing hypotheses on how states choose their friends. Which hy
 
 Beschloss, Michael R. "[Foreign Policy's Big Moment](http://www.nytimes.com/1999/04/11/opinion/foreign-policy-s-big-moment.html)," _New York Times_, April 11, 1999.
 
-_Claimed here: during political campaigns U.S. politicians pander to U.S. voters by framing dangerous foreign policy positions that they cannot abandon once in office. The country is thereby led into folly. A corollary: a prime threat to America is ... an American public that responds well to irresponsible pandering._
+_Claimed here: during political campaigns U.S. politicians pander to U.S. voters by framing dangerous foreign policy positions that they cannot abandon once in office. The country is thereby led into folly. A corollary: a prime threat to America is … an American public that responds well to irresponsible pandering._
 
 Kristof, Nicholas D. "[Save Our Spooks](http://www.nytimes.com/2003/05/30/opinion/save-our-spooks.html)," _New York Times_, May 30, 2003.
 
@@ -123,7 +67,7 @@ Hersh, Seymour M. "Intrigues." Chapter 9 in _The Price of Power: Kissinger in t
 
 _What to make of the attitudes of Richard Nixon, Henry Kissinger, and Alexander Haig reported here? (Are such attitudes widespread among foreign policymakers? Do such attitudes matter?)_
 
-Cohen, Patricia. "[Great Caesar's Ghost! Are Traditional History Courses Vanishing?](http://www.nytimes.com/2009/06/11/books/11hist.html)," _New York Times,_ June 10, 2009_._
+Cohen, Patricia. "[Great Caesar's Ghost! Are Traditional History Courses Vanishing?](http://www.nytimes.com/2009/06/11/books/11hist.html)," _New York Times,_ June 10, 2009.
 
 _The study of political, diplomatic and military history is being marginalized or destroyed in American universities. Some find this dangerous. Will an increasingly ignorant American public will choose unwisely on fateful security matters? As Santayana warned: "Those who forget the past are condemned to repeat it."_
 
@@ -147,19 +91,7 @@ Guttman, Nathan. "[Pro-Israel Christians Mobilize in D.C.](https://forward.com/n
 
 _A major faction of evangelical Christians lobby hard to prevent U.S. support for any land-for-peace settlement between Israel and its neighbors. These Christians are an important element of the Israel lobby._
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-6–8
-{{< tdclose >}}
-{{< tdopen >}}
-U.S. Interests and Grand Strategies
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}6–8{{< tdclose >}}{{< tdopen >}}U.S. Interests and Grand Strategies{{< tdclose >}}{{< tdopen >}}
 
 ### _Cold War-era (1947–89) national security strategy ideas_
 
@@ -175,9 +107,9 @@ Sanger, David E. "[Bush to Formalize A Defense Policy of Hitting First](http://w
 
 _The George W. Bush Administration embraced a general doctrine of preventive war against rogue states that aspire to develop weapons of mass destruction. Iraq was the first rogue state on its hit list: Syria and Iran were also high on the list; Libya and Saudi Arabia were further down. Are such preventive wars a good idea?_
 
-Lieber, Keir A. and Robert J. Lieber. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Bush National Security Strategy." (PDF)](https://usiraq.procon.org/sourcefiles/2002USNSS-A_New_Era.pdf) _U.S. Foreign Policy Agenda, An Electronic Journal of the U.S. Department of State_ 7, no. 4 (December 2002): 32–35.
+Lieber, Keir A. and Robert J. Lieber. ["The Bush National Security Strategy." (PDF)](https://usiraq.procon.org/sourcefiles/2002USNSS-A_New_Era.pdf) _U.S. Foreign Policy Agenda, An Electronic Journal of the U.S. Department of State_ 7, no. 4 (December 2002): 32–35.
 
-_A friendly summary and assessment of the ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[2002 National Security Strategy of the United States of America (PDF)](https://www.state.gov/documents/organization/63562.pdf) (Washington D.C.: White House, September 2002), (NSS), the document that frames the main elements of the George W. Bush administration strategy, including its general doctrine of preventive war (see Sanger article above)._
+_A friendly summary and assessment of the_ [_2002 National Security Strategy of the United States of America (PDF)_](https://www.state.gov/documents/organization/63562.pdf) _(Washington D.C.: White House, September 2002), (NSS), the document that frames the main elements of the George W. Bush administration strategy, including its general doctrine of preventive war (see Sanger article above)._
 
 Baker, Kevin. "[American Imperialism, Embraced](http://www.nytimes.com/2001/12/09/magazine/the-year-in-ideas-a-to-z-american-imperialism-embraced.html)," _New York Times Magazine,_ December 9, 2001.
 
@@ -187,9 +119,9 @@ _After 2000, important elements of the U.S. conservative movement began arguing 
 
 ### _Obama-era (2009–17) national security strategy ideas, debates:_
 
-Sanger, David E., and Peter Baker. "[New U.S. Strategy Focuses on Managing Threats](http://www.nytimes.com/2010/05/28/world/28strategy.html)," _New York Times,_ May 27, 2010_._
+Sanger, David E., and Peter Baker. "[New U.S. Strategy Focuses on Managing Threats](http://www.nytimes.com/2010/05/28/world/28strategy.html)," _New York Times,_ May 27, 2010.
 
-_The Obama administration national security strategy dropped the·George W. Bush administration's unilateralist approach in favor of pursuing common action, and it downgraded the Bush emphasis on preventive war. It focused on preventing terror, limiting the spread of weapons of mass destruction (WMD), and halting climate change._
+_The Obama administration national security strategy dropped the George W. Bush administration's unilateralist approach in favor of pursuing common action, and it downgraded the Bush emphasis on preventive war. It focused on preventing terror, limiting the spread of weapons of mass destruction (WMD), and halting climate change._
 
 ### _Trump-era (2017–) national security strategy ideas, debates_
 
@@ -211,9 +143,9 @@ _Rice argues that preventive war against North Korea would be very costly, and w
 
 Dizikes, Peter. "[Time to Rethink Foreign Policy?](http://news.mit.edu/2014/rethink-foreign-policy-0709)" MIT News, July 9, 2014.
 
-_Political scientist and MIT professor [Barry Posen](https://polisci.mit.edu/people/barry-r-posen) argues for a more limited U.S. grand strategy in an important book,_ Restraint: A New Foundation for U.S. Grand Strategy. _Cornell University Press, 2015. ISBN: 9781501700729. \[Preview with [Google Books](https://books.google.com/books?id=rnmuAwAAQBAJ&pg=PAfrontcover#v=onepage&q&f=false)\] The U.S. should prevent any state from dominating industrial Eurasia, but that's an easy task--there is no candidate for Eurasian hegemony today. The U.S. should also work to limit nuclear proliferation and to destroy terrorist groups that aim to harm the U.S., but that's easy too. It doesn't require a wide U.S. empire and is best achieved by largely nonmilitary means. Invading Iraq was a bad idea: avoid similar projects down the road._
+_Political scientist and MIT professor_ [_Barry Posen_](https://polisci.mit.edu/people/barry-r-posen) _argues for a more limited U.S. grand strategy in an important book,_ Restraint: A New Foundation for U.S. Grand Strategy. _Cornell University Press, 2015. ISBN: 9781501700729. \[Preview with_ [_Google Books_](https://books.google.com/books?id=rnmuAwAAQBAJ&pg=PAfrontcover#v=onepage&q&f=false)_\] The U.S. should prevent any state from dominating industrial Eurasia, but that's an easy task--there is no candidate for Eurasian hegemony today. The U.S. should also work to limit nuclear proliferation and to destroy terrorist groups that aim to harm the U.S., but that's easy too. It doesn't require a wide U.S. empire and is best achieved by largely nonmilitary means. Invading Iraq was a bad idea: avoid similar projects down the road._
 
- Van Evera, Stephen, ed. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["American Foreign Policy for the New Era." (PDF)](https://tobinproject.org/sites/tobinproject.org/files/assets/Make_America_Safe_American_Foreign_Policy_For_New_Era.pdf) In _How to Make America Safe: New Policies for National Security._ Tobin Project, 2006. 
+ Van Evera, Stephen, ed. ["American Foreign Policy for the New Era." (PDF)](https://tobinproject.org/sites/tobinproject.org/files/assets/Make_America_Safe_American_Foreign_Policy_For_New_Era.pdf) In _How to Make America Safe: New Policies for National Security._ Tobin Project, 2006. 
 
 _The U.S. should lead in forming a concert of major powers to address the prime threats to the U.S.: the spread of weapons of mass destruction (WMD), terrorists like al-Qaeda who would use WMD against the U.S.; and climate change. Imperial conduct by the U.S. would preclude such a concert and should therefore be eschewed._
 
@@ -225,12 +157,11 @@ _Climate change is real and dangerous. We face a 10 percent chance of a catastro
 
 Homer-Dixon, Thomas. "[Terror in the Weather Forecast](http://www.nytimes.com/2007/04/24/opinion/24homer-dixon.html)," _New York Times,_ April 24, 2007.
 
-_Climate change will cause failed states, terrorism, and vast forced migrations, triggering civil and international war. How cheery.  
-_
+_Climate change will cause failed states, terrorism, and vast forced migrations, triggering civil and international war. How cheery._
 
-Davenport, Coral. "[Climate Change Deemed Growing Security Threat by Military Researchers](https://www.nytimes.com/2014/05/14/us/politics/climate-change-deemed-growing-security-threat-by-military-researchers.html),'' _New York Times,_ May 14, 2014_._
+Davenport, Coral. "[Climate Change Deemed Growing Security Threat by Military Researchers](https://www.nytimes.com/2014/05/14/us/politics/climate-change-deemed-growing-security-threat-by-military-researchers.html),'' _New York Times,_ May 14, 2014.
 
-_[The Center for Naval Analyses](https://www.cna.org/centers/cna/) warns that climate change will disrupt other societies in ways that will cause conflict, war, refugees, and chaos overseas, and will do damage to U.S. military infrastructure in the U.S. U.S. national security will suffer._
+[_The Center for Naval Analyses_](https://www.cna.org/centers/cna/) _warns that climate change will disrupt other societies in ways that will cause conflict, war, refugees, and chaos overseas, and will do damage to U.S. military infrastructure in the U.S. U.S. national security will suffer._
 
 Romm, Joe. "[Climate Panel Stunner: Avoiding Climate Catastrophe is Super Cheap-But Only if We Act Now](https://thinkprogress.org/climate-panel-stunner-avoiding-climate-catastrophe-is-super-cheap-but-only-if-we-act-now-48da9b59e02b/)." ThinkProgress, April 13, 2014.
 
@@ -252,11 +183,11 @@ _The ever-murderous Islamist government of Sudan conducted a 55-year killing spr
 
 Kinzer, Stephen. "[Are Human Rights Activists Today's Warmongers?](https://www.bostonglobe.com/opinion/2014/05/24/are-human-rights-activists-today-warmongers/gef04rpPxgEdCEdx4DQ87J/story.html)" _Boston Globe,_ May 25, 2014.
 
-_Claimed by Kinzer: Human rights advocates now often call for war to protect human rights, e.g., in Syria, Afghanistan, South Sudan, This is unwise. [Human Rights Watch](https://www.hrw.org/) has been captured by advocates of a belligerent parochial agenda. This is bad._
+_Claimed by Kinzer: Human rights advocates now often call for war to protect human rights, e.g., in Syria, Afghanistan, South Sudan, This is unwise._ [_Human Rights Watch_](https://www.hrw.org/) _has been captured by advocates of a belligerent parochial agenda. This is bad._
 
 ### _Protecting the commons: global public health_
 
-Troedsson, Hans, and Anton Rychener, "[When Influenza Takes Flight](http://www.nytimes.com/2005/02/05/opinion/when-influenza-takes-flight.html)," _New York Times_, February 5, 2005_._
+Troedsson, Hans, and Anton Rychener, "[When Influenza Takes Flight](http://www.nytimes.com/2005/02/05/opinion/when-influenza-takes-flight.html)," _New York Times_, February 5, 2005.
 
 _The 1918 flu killed 675,000 Americans--more than died in combat in the two World Wars combined. Bummer. Something similar could happen again. We have learned some tricks since 1918 but remain poorly prepared for another lethal flu pandemic. What's the answer? Two ideas: better vaccine manufacturing technique, and worldwide preventive action. Again, everyone must cooperate. Hence this is a foreign policy problem. What are we doing about it? Not much._
 
@@ -266,25 +197,7 @@ Kinzer, Stephen. "[Stability Does Not Require Democracy](http://www.bostonglobe.
 
 _Kinzer argues that the U.S. should not reflexively favor ousting authoritarian regimes. Often democracy won't result; and sometimes what follows will be worse. Witness Iraq 2003, Libya 2011. Regime change is difficult business. The US track record at regime change is very spotty._
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
-**II. America's Major Wars: World War I, World War II, Cold War, & Korea**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-9–12
-{{< tdclose >}}
-{{< tdopen >}}
-World War I and World War II
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}**II. America's Major Wars: World War I, World War II, Cold War, & Korea**{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}9–12{{< tdclose >}}{{< tdopen >}}World War I and World War II{{< tdclose >}}{{< tdopen >}}
 
 \[P\] Chapter 3: War, Peace, and Revolution in the Time of Wilson, 1914–1920, pp. 74–99.
 
@@ -296,19 +209,7 @@ World War I and World War II
 
 _A good textbook history of American policies before and during the two world wars._
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-13–14
-{{< tdclose >}}
-{{< tdopen >}}
-Cold War Origins and Conduct; the Korean War
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}13–14{{< tdclose >}}{{< tdopen >}}Cold War Origins and Conduct; the Korean War{{< tdclose >}}{{< tdopen >}}
 
 ### _Cold War origins and conduct_
 
@@ -320,25 +221,7 @@ _A standard textbook account of the Cold War's origins, from a viewpoint somewha
 
 \[P\] Chapter 8: Cold War Prism: The Korean War and Eisenhower-Dulles Foreign Relations, 1950–1961, pp. 283–92.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
-**III. Interlude: U.S. National Security Policy; The Terror War; U.S. Foreign Economic Policy**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-15–16
-{{< tdclose >}}
-{{< tdopen >}}
-U.S. National Security Policy, 1945–present
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}**III. Interlude: U.S. National Security Policy; The Terror War; U.S. Foreign Economic Policy**{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}15–16{{< tdclose >}}{{< tdopen >}}U.S. National Security Policy, 1945–present{{< tdclose >}}{{< tdopen >}}
 
 \[G\] Chapter 3: Implementing Containment.
 
@@ -358,7 +241,7 @@ _The advance of science has a fearsome byproduct: we are discovering ever more p
 
 _For more on controlling the long term bioweapons danger see:_
 
-Steinbruner, John, Elisa D. Harris, Nancy Gallagher, et al. _![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Controlling Dangerous Pathegens: A Prototype Protective Oversight System.](https://drum.lib.umd.edu/handle/1903/7949)_ [(PDF - 3.0MB)](https://drum.lib.umd.edu/handle/1903/7949) The Center for International and Security Studies at Maryland. Advanced Methods of Cooperative Security Program, the University of Maryland. March 2007.
+Steinbruner, John, Elisa D. Harris, Nancy Gallagher, et al. [_Controlling Dangerous Pathegens: A Prototype Protective Oversight System._](https://drum.lib.umd.edu/handle/1903/7949) [(PDF - 3.0MB)](https://drum.lib.umd.edu/handle/1903/7949) The Center for International and Security Studies at Maryland. Advanced Methods of Cooperative Security Program, the University of Maryland. March 2007.
 
 Kelly, Henry C. "[Terrorism and the Biology Lab](http://www.nytimes.com/2003/07/02/opinion/terrorism-and-the-biology-lab.html)," _New York Times_, July 2, 2003.
 
@@ -384,21 +267,9 @@ Broad, William J. "[Laser Advances in Nuclear Fuel Stir Terror Fear](http://www.
 
 _General Electric and Hitachi have reportedly developed a new means to enrich uranium. Enriching uranium is the key step in making an atomic bomb. The GE/Hitachi Silex process allows enrichment in a small, low-cost facility. Will this put atomic bombs in close reach of crazy states and terrorists? Is Rees's nightmare coming true? Have the people at GE and Hitachi taken leave of their senses? Inquiring minds want to know._
 
-_For more discussion of the latest U.S. strategy statement, see the [Defense Strategy Review Page](http://www.comw.org/wordpress/dsr/) of the [Project on Defense Alternatives](http://comw.org/pda/)._
+_For more discussion of the latest U.S. strategy statement, see the_ [_Defense Strategy Review Page_](http://www.comw.org/wordpress/dsr/) _of the_ [_Project on Defense Alternatives_](http://comw.org/pda/)_._
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-17
-{{< tdclose >}}
-{{< tdopen >}}
-The U.S. "War on Terror," 9/11/01–present
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}17{{< tdclose >}}{{< tdopen >}}The U.S. "War on Terror," 9/11/01–present{{< tdclose >}}{{< tdopen >}}
 
 \[P\] Chapter 12: Millennial America: Foreign Relations since 2001, pp. 505–29.
 
@@ -412,7 +283,7 @@ Riedel, Bruce. "The Thinker: Zawahiri." Chapter 2 in _The Search for Al Qaeda: I
 
 _Recommended as an extra reading:_
 
-Benjamin, Daniel, and Steven Simon. "Ibn Taymiyya and His Children." Chapter 2 in _The Age of Sacred Terror: Radical Islam's War Against America._ Random House, 2003, pp. 38–55, pp. 61–68, and pp. 91–94_._ ISBN: 9780812969849. \[Preview with [Google Books](https://books.google.com/books?id=-5VBDwAAQBAJ&pg=PA38=onepage#v=onepage&q&f=false)\]
+Benjamin, Daniel, and Steven Simon. "Ibn Taymiyya and His Children." Chapter 2 in _The Age of Sacred Terror: Radical Islam's War Against America._ Random House, 2003, pp. 38–55, pp. 61–68, and pp. 91–94. ISBN: 9780812969849. \[Preview with [Google Books](https://books.google.com/books?id=-5VBDwAAQBAJ&pg=PA38=onepage#v=onepage&q&f=false)\]
 
 ———. "A Paradigm Lost." Chapter 6 in _The Age of Sacred Terror: Radical Islam's War Against America._ Random House, 2003, pp. 219–33. ISBN: 9780812969849. \[Preview with [Google Books](https://books.google.com/books?id=-5VBDwAAQBAJ&pg=PA219=onepage#v=onepage&q&f=false)\]
 
@@ -420,7 +291,7 @@ Benjamin, Daniel, and Steven Simon. "Ibn Taymiyya and His Children." Chapter 2 i
 
 _Chapter 2 describes the Islamist currents of thinking that spawned Osama Bin Laden's Al Qaeda and the frightening rise of apocalyptic thinking in the Islamic world. Chapter 6 and the afterword survey and evaluate the Clinton administration and Bush administration counter-terror strategies and policies._
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The National Defense Strategy of the United States of America. (PDF - 1.6MB)](https://permanent.access.gpo.gov/lps59037/lps59037.pdf) U.S. Government Printing Office, pp. 6–9. March 2005.
+[The National Defense Strategy of the United States of America. (PDF - 1.6MB)](https://permanent.access.gpo.gov/lps59037/lps59037.pdf) U.S. Government Printing Office, pp. 6–9. March 2005.
 
 _This summarizes G.W. Bush administration thinking on how to defeat Al Qaeda. Note the list on page 8 of eight major terrorist vulnerabilities to be targeted. Behind this strategy is the view that terrorist networks are like organisms whose care and feeding can be disrupted if their needs are understood._
 
@@ -430,7 +301,7 @@ Al-Hattan, Sulaiman. "Homegrown Fanatics," _New York Times_, May 15, 2003.
 
 _Saudi Arabian society is dominated by a hateful and xenophobic version of Islam-Wahhabism. Unless Wahhabism is tempered Saudi Arabia will export more terror against the non-Muslim world._
 
-Haqqani, Husain. "[Extremism Still Thrives in Pakistan](http://www.nytimes.com/2005/07/20/opinion/extremism-still-thrives-in-pakistan.html)," _New York Times__,_ July 20, 2005.
+Haqqani, Husain. "[Extremism Still Thrives in Pakistan](http://www.nytimes.com/2005/07/20/opinion/extremism-still-thrives-in-pakistan.html)," _New York Times, _ July 20, 2005.
 
 _Pakistan is in the throes of something bad, but what is it? Religious extremism? Militarism? How should the U.S. respond?_
 
@@ -446,25 +317,13 @@ Benjamin, Daniel. "[Hawks Exaggerate Islamic State Threat to the United States]
 
 _How can the size of the threat posed by extreme Islamist terrorist groups like al­ Qaeda and ISIS be measured? Benjamin argues that ISIS is dangerous but its danger is finite._
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-18
-{{< tdclose >}}
-{{< tdopen >}}
-U.S. Foreign Economic Policy, 1945–present
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}18{{< tdclose >}}{{< tdopen >}}U.S. Foreign Economic Policy, 1945–present{{< tdclose >}}{{< tdopen >}}
 
 "World Trade - Jousting for Advantage: The Economics of Free Trade." _The Economist_, September 22, 1990, pp. 12–19.
 
 _An explication of David Ricardo's theory of comparative advantage._
 
-Rodrik, Dani. "[Too Late to Compensate Free Trade's Losers](https://www.project-syndicate.org/commentary/free-trade-losers-compensation-too-late-by-dani-rodrik-2017-04?barrier=accessreg)." Project Syndicate_,_ April 11, 2017.
+Rodrik, Dani. "[Too Late to Compensate Free Trade's Losers](https://www.project-syndicate.org/commentary/free-trade-losers-compensation-too-late-by-dani-rodrik-2017-04?barrier=accessreg)." Project Syndicate, April 11, 2017.
 
 _Free trade increases net wealth, but it creates losers as well as winners. In the U.S. the losses are concentrated among unskilled workers. In Europe losers are compensated, in the U.S. they are left to fend for themselves. Whole communities are sometimes ruined. Think Youngstown, Ohio. No wonder many U.S. "rust belt" workers have lately voted for candidates who echo protectionist ideas, like Donald Trump and Bernie Sanders._
 
@@ -472,29 +331,11 @@ Becker, Elizabeth. "[Raising Farm Subsidies, U.S. Widens International Rift](htt
 
 _The U.S. waves the free trade banner--except when it doesn't want to. U.S. strictures on imports of agricultural products and textiles are a blow to the world's poor._
 
-Shelton, Judy. "More Aid? Sounds Great. But Wait..." _Wall Street Journal,_ February 15, 2002.
+Shelton, Judy. "More Aid? Sounds Great. But Wait…" _Wall Street Journal,_ February 15, 2002.
 
 _Shoving money at poor states doesn't make them richer. Instead western societies should help poor states improve their governance--i.e., to control corruption and bolster the rule of law. Better economic performance will follow._
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
-**IV. Cold War Crises: Berlin, Taiwan Straits, and Cuba 1962**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-19–20
-{{< tdclose >}}
-{{< tdopen >}}
-The 1962 Cuban Missile Crisis; other Cold War Crises
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}**IV. Cold War Crises: Berlin, Taiwan Straits, and Cuba 1962**{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}19–20{{< tdclose >}}{{< tdopen >}}The 1962 Cuban Missile Crisis; other Cold War Crises{{< tdclose >}}{{< tdopen >}}
 
 \[P\] Chapter 8: Cold War Prism: The Korean War and Eisenhower-Dulles Foreign Relations, 1950–1961, pp. 309–13. 
 
@@ -530,27 +371,9 @@ Allyn, Bruce J., and James G. Blight. "[After Missile Crisis, Game of Chicken We
 
 Dobbs, Michael. "[The Price of a 50-Year Myth](http://www.nytimes.com/2012/10/16/opinion/the-eyeball-to-eyeball-myth-and-the-cuban-missile-crisiss-legacy.html)," _New York Times_, October 16, 2012.
 
-_For more information, you can visit [The Cuban Missile Crisis, 1962: The 40th Anniversary](http://nsarchive2.gwu.edu/nsa/cuba_mis_cri/index.htm), a good website on the crisis put together by the [National Security Archive](https://nsarchive.gwu.edu/). Documents can be seen, tapes can be listened to, and intelligence photos can be viewed at this site. And for more sources on the crisis, visit [Cuban Missile Crisis](http://www.cubanmissilecrisis.org), a website from Harvard Business School's [Belfer Center for Science and International Affairs](https://www.belfercenter.org/)._
+_For more information, you can visit_ [_The Cuban Missile Crisis, 1962: The 40th Anniversary_](http://nsarchive2.gwu.edu/nsa/cuba_mis_cri/index.htm)_, a good website on the crisis put together by the_ [_National Security Archive_](https://nsarchive.gwu.edu/)_. Documents can be seen, tapes can be listened to, and intelligence photos can be viewed at this site. And for more sources on the crisis, visit_ [_Cuban Missile Crisis_](http://www.cubanmissilecrisis.org)_, a website from Harvard Business School's_ [_Belfer Center for Science and International Affairs_](https://www.belfercenter.org/)_._
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
-**V. American Interventions in the "Third World"**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-21–22
-{{< tdclose >}}
-{{< tdopen >}}
-The Indochina War, 1950–1975
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}**V. American Interventions in the "Third World"**{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}21–22{{< tdclose >}}{{< tdopen >}}The Indochina War, 1950–1975{{< tdclose >}}{{< tdopen >}}
 
 \[P\] Chapter 9: Passing the Torch: The Vietnam Years, 1961–1969, pp. 337–54, and 362–78. 
 
@@ -572,16 +395,7 @@ Clifford, Clark, with Richard Holbrooke. "The Republican Era." Chapter 8 in _Cou
 
 _A short counterpoint to Sanders and Henderson._
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-23–24
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}23–24{{< tdclose >}}{{< tdopen >}}
 
 Other American Interventions:
 
@@ -593,10 +407,7 @@ Non-Interventions:
 
 _(Mexico in 1930s; Bolivia in 1950s)_
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 \[P\] Chapter 2: Managing, Policing, and Extending the Empire, 1900–1914.
 
@@ -632,25 +443,7 @@ Zeller, Torn. "Building Democracy is Not a Science," _New York Times,_ April 27,
 
 _The United States' mixed record at exporting democracy by intervention is summarized here._
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
-**VI. The Road Ahead: Current Crises and Future Policies**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-25–26
-{{< tdclose >}}
-{{< tdopen >}}
-Current Issues and Crises; Assessment of Bush 43 and Obama Administration's Foreign Policies; The Future of American Foreign Policy
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}**VI. The Road Ahead: Current Crises and Future Policies**{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}25–26{{< tdclose >}}{{< tdopen >}}Current Issues and Crises; Assessment of Bush 43 and Obama Administration's Foreign Policies; The Future of American Foreign Policy{{< tdclose >}}{{< tdopen >}}
 
 \[P\] Chapter 12: Millennial America: Foreign Relations since 2001, pp. 518–36.
 
@@ -680,8 +473,7 @@ _North Korea's government prefers conflict over harmony with others. It has so p
 
 Allison, Graham. "[Thinking the Unthinkable with North Korea](https://www.nytimes.com/2017/05/30/opinion/north-korea-nuclear-crisis-donald-trump.html)," _New York Times,_ May 30, 2017.
 
-_A war in Korea could grow to become a US-China war, again as in  
-October-November 1950. The U.S. attacks North Korea's nuclear forces; North Korea attacks Seoul, killing several hundred thousand people; South Korea massively attacks North Korea; China enters the war, attacking South Korea to save North Korea; the U.S. attacks China to save South Korea. Oh dear!_
+_A war in Korea could grow to become a US-China war, again as in October-November 1950. The U.S. attacks North Korea's nuclear forces; North Korea attacks Seoul, killing several hundred thousand people; South Korea massively attacks North Korea; China enters the war, attacking South Korea to save North Korea; the U.S. attacks China to save South Korea. Oh dear!_
 
 Allison, Graham. "[How Trump and China's Xi Could Stumble into War](https://www.washingtonpost.com/posteverything/wp/2017/03/31/how-trump-and-chinas-xi-could-stumble-into-war)," _Washington Post,_ March 31, 2017.
 
@@ -697,7 +489,9 @@ Nabil, Rahmatullah. "[The World Must Secure Pakistan's Nuclear Weapons](https://
 
 Roback, Alan, and Brian Toon. "Climatic Effects of Nuclear Conflict," 2010.
 
-_Even a "small" nuclear war, e.g., between secondary nuclear states (e.g., Pakistan and India) could well cause very damaging short-term global climate change. A major nuclear war (e.g., between Russia and the U.S.) could cause potentially civilization-ending climate change. For details visit [Climatic Consequences of Nuclear Conflict: Nuclear Winter is Still a Danger,](http://climate.envsci.rutgers.edu/nuclear/) [Alan Robock](http://envsci.rutgers.edu/~robock/), [Department of Environmental Sciences, Rutgers University](http://www.envsci.rutgers.edu/)._
+_Even a "small" nuclear war, e.g., between secondary nuclear states (e.g., Pakistan and India) could well cause very damaging short-term global climate change. A major nuclear war (e.g., between Russia and the U.S.) could cause potentially civilization-ending climate change. For details visit_ [_Climatic Consequences of Nuclear Conflict: Nuclear Winter is Still a Danger,_](http://climate.envsci.rutgers.edu/nuclear/) 
+
+[_Alan Robock_](http://envsci.rutgers.edu/~robock/)_,_ [_Department of Environmental Sciences, Rutgers University_](http://www.envsci.rutgers.edu/)_._
 
 Dean, Cornelia. "[Survey Shows Gap Between Scientists and the Public](http://www.nytimes.com/2009/07/10/science/10survey.html)," _New York Times,_ July 9, 2009.
 
@@ -707,9 +501,4 @@ Zakaria, Fareed. "[How To Change Ugly Regimes](http://www.newsweek.com/fareed-za
 
 _The George W. Bush administration tried to oust dictators by isolating and snarling at them. This didn't work--in fact it backfired. Such a U.S. policy has helped keep the Castro regime in power in Cuba for over five decades. It also failed with Iran and North Korea. Instead a loving embrace will destroy such dictators._
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
