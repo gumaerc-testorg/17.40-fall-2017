@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about bibliography.
-file: /media/courses/17-40-american-foreign-policy-past-present-and-future-fall-2017/32ae4afc9ec7bcc35ec0332a31edffec_MIT17_40F17_FurtherReading.pdf
+file: /courses/17-40-american-foreign-policy-past-present-and-future-fall-2017/32ae4afc9ec7bcc35ec0332a31edffec_MIT17_40F17_FurtherReading.pdf
 file_type: application/pdf
 learning_resource_types:
 - Readings
@@ -13,3 +13,5 @@ resourcetype: Document
 title: '17.40F17 American Foreign Policy Readings: Further Readings'
 uid: 32ae4afc-9ec7-bcc3-5ec0-332a31edffec
 ---
+This resource contains information about bibliography.
+

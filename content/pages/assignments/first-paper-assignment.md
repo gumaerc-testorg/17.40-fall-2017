@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section includes the requirements for the first graded paper.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
