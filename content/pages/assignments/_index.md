@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section includes the course assignments.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: ba7eb892-ef03-de90-41d8-0aa5367823eb
 ---
@@ -45,4 +49,4 @@ Your first 8-page paper is due at the beginning of Session 17. Your second 8-pag
 
 We require that you submit a finished draft of at least one of your 8-page papers eight days before its due date in order to get comments for rewrite from your TA. You are wise to submit both papers to your TA for comments. So leave yourself time to get comments on drafts of the 8-page papers from your TA before you submit final drafts.
 
-For detailed information on the graded papers, see [First Paper Assignment]({{< baseurl >}}/pages/assignments/first-paper-assignment) and [Second Paper Assignment]({{< baseurl >}}/pages/assignments/second-paper-assignment).
+For detailed information on the graded papers, see {{% resource_link e051eeb7-5107-0e83-50cd-612e562c1b90 "First Paper Assignment" %}} and {{% resource_link 3ff7cc41-0bef-b9ee-5efc-9d3047fe99eb "Second Paper Assignment" %}}.

@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This section includes the requirements for the second graded paper.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: ba7eb892-ef03-de90-41d8-0aa5367823eb
 title: Second Paper Assignment
 uid: 3ff7cc41-0bef-b9ee-5efc-9d3047fe99eb
@@ -16,7 +21,7 @@ And / or you can (3) assess whether the process by which the policy was decided 
 
 In asking if the consequences of the policy were good or bad, you can assess the policy against a pragmatic standard ("the policy improved US national security") or a moral standard ("the policy violated universal human rights"), or both.
 
-If the evidence available in the assigned readings is too thin to allow you to fully evaluate the policy or policy element that you have chosen to discuss, please say so and describe the information that you would need to perform a more thorough evaluation. Alternately, you can consult works listed in the ''Further Readings'' pdf, which can be found in the [Readings]({{< baseurl >}}/pages/readings) section, or you can ask your TA for suggestions on further reading. (Extra reading is not mandatory but we encourage it if your paper seems to call for it.)
+If the evidence available in the assigned readings is too thin to allow you to fully evaluate the policy or policy element that you have chosen to discuss, please say so and describe the information that you would need to perform a more thorough evaluation. Alternately, you can consult works listed in the ''Further Readings'' pdf, which can be found in the {{% resource_link 7c002606-d998-55aa-4912-3d919e518bce "Readings" %}} section, or you can ask your TA for suggestions on further reading. (Extra reading is not mandatory but we encourage it if your paper seems to call for it.)
 
 Examples of policies you might evaluate:
 

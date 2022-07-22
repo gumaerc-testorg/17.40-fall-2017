@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section includes the course lecture notes.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: f0185187-cfaa-57bc-dcd1-6b01adf630c4
 ---
@@ -36,7 +40,7 @@ LECTURE NOTES
 Introduction
 {{< tdclose >}}
 {{< tdopen >}}
-[Introduction (PDF)]({{< baseurl >}}/resources/mit17_40f17_introduction)
+{{% resource_link 2c558f6a-53d8-7fc1-719e-85a7b6fa67ed "Introduction (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -50,9 +54,9 @@ Theories of U.S. Foreign Policy
 {{< tdopen >}}
 
 
-[Theories of International Politics and Theories of U.S. Foreign Policy (PDF)]({{< baseurl >}}/resources/mit17_40f17_intrnatnlpolit)
+{{% resource_link 52596846-9875-6946-e2ec-53205a0eff7d "Theories of International Politics and Theories of U.S. Foreign Policy (PDF)" %}}
 
-[The "Spiral Model" vs. the "Deterrence Model" (PDF)]({{< baseurl >}}/resources/mit17_40f17_spiralvsdetern)
+{{% resource_link c728b4f5-e28d-681f-e763-a6e1bfc6ac95 "The \"Spiral Model\" vs. the \"Deterrence Model\" (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -66,7 +70,7 @@ Theories of U.S. Foreign Policy
 U.S. Interests and Grand Strategies
 {{< tdclose >}}
 {{< tdopen >}}
-[United States Interests and Grand Strategies (PDF)]({{< baseurl >}}/resources/mit17_40f17_usintreststrat)
+{{% resource_link 71b4b427-de49-bdef-d715-d7c10b1d997c "United States Interests and Grand Strategies (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -86,9 +90,9 @@ World War I and World War II
 {{< tdopen >}}
 
 
-[The United States and World War I (PDF)]({{< baseurl >}}/resources/mit17_40f17_worldwari)
+{{% resource_link c8dccbc8-4f57-90e5-3b51-6b0160850d06 "The United States and World War I (PDF)" %}}
 
-[The United States and World War II (PDF)]({{< baseurl >}}/resources/mit17_40f17_worldwarii)
+{{% resource_link e0873f56-b92e-bc5a-5f74-942bd4d68754 "The United States and World War II (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -102,7 +106,7 @@ World War I and World War II
 Cold War Origins and Conduct; the Korean War
 {{< tdclose >}}
 {{< tdopen >}}
-[Cold War Origins, & U.S. Intervention in the Korean War (PDF)]({{< baseurl >}}/resources/mit17_40f17_coldwarorigins)
+{{% resource_link 2906ad71-3dcc-3fa5-0009-03c6fa08a8a4 "Cold War Origins, & U.S. Intervention in the Korean War (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -120,7 +124,7 @@ Cold War Origins and Conduct; the Korean War
 U.S. National Security Policy, 1945–present
 {{< tdclose >}}
 {{< tdopen >}}
-[U.S. National Security & Nuclear Policy, 1945–present (PDF)]({{< baseurl >}}/resources/mit17_40f17_natonlsecurity)
+{{% resource_link b3671d7e-e8c0-95fb-759a-0a0932484ec5 "U.S. National Security & Nuclear Policy, 1945–present (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -132,7 +136,7 @@ U.S. National Security Policy, 1945–present
 The U.S. "War on Terror," 9/11/01–present
 {{< tdclose >}}
 {{< tdopen >}}
-[The War on Terror, 2001–present (PDF)]({{< baseurl >}}/resources/mit17_40f17_waronterror)
+{{% resource_link ecb52be5-ddcb-ce58-ab9e-2287e1ca5578 "The War on Terror, 2001–present (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -144,7 +148,7 @@ The U.S. "War on Terror," 9/11/01–present
 U.S. Foreign Economic Policy, 1945–present
 {{< tdclose >}}
 {{< tdopen >}}
-[US Foreign Economic Policy: Trade, Investment, and Aid Issues and Policies (PDF)]({{< baseurl >}}/resources/mit17_40f17_usforineconpol)
+{{% resource_link 133f15fe-5bf3-2aea-fc04-019caf09e788 "US Foreign Economic Policy: Trade, Investment, and Aid Issues and Policies (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -162,7 +166,7 @@ U.S. Foreign Economic Policy, 1945–present
 The 1962 Cuban Missile Crisis; Other Cold War Crises.
 {{< tdclose >}}
 {{< tdopen >}}
-[The Cuban Missile Crisis, October 16–28, 1962 (PDF)]({{< baseurl >}}/resources/mit17_40f17_cubnmisilecris)
+{{% resource_link 6ced9241-8abc-59ed-18d3-0f4778cfc9b9 "The Cuban Missile Crisis, October 16–28, 1962 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -180,7 +184,7 @@ The 1962 Cuban Missile Crisis; Other Cold War Crises.
 The Indochina War. 1950–1975
 {{< tdclose >}}
 {{< tdopen >}}
-[The Vietnam War, 1945–1975 (PDF)]({{< baseurl >}}/resources/mit17_40f17_vietnamwar)
+{{% resource_link 8931efe0-0749-8b02-59aa-116adc856d2d "The Vietnam War, 1945–1975 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -204,7 +208,7 @@ _(Mexico in 1930s; Bolivia in 1950s)_
 
 {{< tdclose >}}
 {{< tdopen >}}
-[American Interventions in the Developing World: An Overview (PDF)]({{< baseurl >}}/resources/mit17_40f17_americanintrvn)
+{{% resource_link 26b2a026-526e-557a-13a3-031ba978afee "American Interventions in the Developing World: An Overview (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -222,7 +226,7 @@ _(Mexico in 1930s; Bolivia in 1950s)_
 Current Issues and Crises; Assessment of Bush 43 and Obama Administration's Foreign Policies; The Future of American Foreign Policy.
 {{< tdclose >}}
 {{< tdopen >}}
-[Predicting the Future and Prescribing for the Future: What Looms Ahead? What Policies Should the U.S. Adopt? (PDF)]({{< baseurl >}}/resources/mit17_40f17_predictingfutr)
+{{% resource_link df2f01d4-cfdb-35c0-6167-b04ac7e234b3 "Predicting the Future and Prescribing for the Future: What Looms Ahead? What Policies Should the U.S. Adopt? (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
