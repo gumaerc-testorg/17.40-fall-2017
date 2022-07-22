@@ -6,6 +6,7 @@ file: /courses/17-40-american-foreign-policy-past-present-and-future-fall-2017/6
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '17.40F17 American Foreign Policy Lecture Slides: Cuban Missile Crisis'
 uid: 6ced9241-8abc-59ed-18d3-0f4778cfc9b9
 ---
 This resource contains information regarding American foreign policy lecture slides: Cuban missile crisis.
-

@@ -6,6 +6,7 @@ file: /courses/17-40-american-foreign-policy-past-present-and-future-fall-2017/7
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: '17.40F17 American Foreign Policy Lecture Slides: U.S. Interests and Gran
 uid: 71b4b427-de49-bdef-d715-d7c10b1d997c
 ---
 This resource contains information regarding American foreign policy lecture slides: U.S. interests and grand strategies.
-
