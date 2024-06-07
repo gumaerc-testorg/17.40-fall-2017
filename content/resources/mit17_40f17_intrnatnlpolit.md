@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding American foreign policy
   lecture slides: International politics and foreign policy.'
 file: /courses/17-40-american-foreign-policy-past-present-and-future-fall-2017/5259684698756946e2ec53205a0eff7d_MIT17_40F17_IntrnatnlPolit.pdf
+file_size: 87107
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

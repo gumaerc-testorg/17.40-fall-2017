@@ -23,7 +23,7 @@ The course covers foreign policy episodes including U.S. involvement in World W
 
 ## Communications Intensive Requirement
 
-This is a Communications Intensive (CI) course, and counts toward fulfilling the {{% resource_link "ac0f1801-aca9-44de-ab01-a3c4b838c60f" "HASS-D" %}} and {{% resource_link "e347bdae-a5e9-41bc-934f-9e569d914e44" "CI" %}} requirements.
+This is a Communications Intensive (CI) course, and counts toward fulfilling the [HASS-D](http://web.mit.edu/hassreq/) and [CI](http://web.mit.edu/commreq/) requirements.
 
 CI courses, including 17.40, require 20 pages of writing, require early submission of at least one paper, and include two public speaking exercises in section. Sections normally include 10 or fewer students.
 
@@ -33,7 +33,7 @@ _Class Format_
 
 The class has two 1-hour general meetings and one 1-hour discussion section meeting per week. Students are expected to complete required readings before each discussion section meeting and to attend section regularly. Section attendance is mandatory. Unexcused absence from section will be penalized.
 
-Sections will include a public speaking exercise in the format of mock presentations to the {{% resource_link "fa3be7d6-83b6-47a8-9766-145d84f859b4" "National Security Council (NSC)" %}}. You will be asked to frame and defend to the Council a viewpoint on a foreign policy issue.
+Sections will include a public speaking exercise in the format of mock presentations to the [National Security Council (NSC)](https://www.whitehouse.gov/nsc/). You will be asked to frame and defend to the Council a viewpoint on a foreign policy issue.
 
 _Writing Requirement_
 
@@ -51,19 +51,19 @@ _Films_
 
 A couple of optional evening film showings will be organized during the term, on topics to be chosen by acclamation of the class. Topics could include the Cuban Missile Crisis, the Vietnam War, Iraq, nuclear war, or other subjects. Some of the films to be shown include:
 
-{{% resource_link "eeec276f-d7fb-4522-b6cb-950d0381cb30" "_Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb_" %}}. Directed by Stanley Kubrick. Black and white, 95 min. 1964.
+[_Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb_](http://www.imdb.com/title/tt0057012/?ref_=nv_sr_2). Directed by Stanley Kubrick. Black and white, 95 min. 1964.
 
-{{% resource_link "0f9a8348-1c4a-4324-82c8-3adda5a6c766" "_Eye in the Sky_" %}}. Directed by Gavin Hood. Color, 102 min. 2015.
+[_Eye in the Sky_](http://www.imdb.com/title/tt2057392/?ref_=fn_tt_tt_1). Directed by Gavin Hood. Color, 102 min. 2015.
 
 ## Textbooks
 
  Paterson, Thomas G., J. Garry Clifford, Robert Brigham, et al. _American Foreign Relations: A History, Volume 2: Since 1895._ 8th edition. Wadsworth Publishing, 2014. ISBN: 9781285433332. 
 
-Gaddis, John Lewis. _Strategies of Containment: A Critical Appraisal of American National Security Policy during the Cold War_. Oxford University Press, 2005. ISBN: 9780195174472. \[Preview with {{% resource_link "42b2a931-c1ee-4328-b7fd-c0df5bf19a70" "Google Books" %}}\]
+Gaddis, John Lewis. _Strategies of Containment: A Critical Appraisal of American National Security Policy during the Cold War_. Oxford University Press, 2005. ISBN: 9780195174472. \[Preview with [Google Books](https://books.google.com/books?id=4KWNMBsI588C&pg=PAfrontcover#v=onepage&q&f=false)\]
 
-Herring, George C. _America's Longest War: The United States and Vietnam, 1950–1975_. 5th edition. McGraw-Hill, 2013. ISBN: 9780073513256. \[Preview with {{% resource_link "5732300d-85ee-4585-851a-ba399f259fa7" "Google Books" %}}\]
+Herring, George C. _America's Longest War: The United States and Vietnam, 1950–1975_. 5th edition. McGraw-Hill, 2013. ISBN: 9780073513256. \[Preview with [Google Books](https://books.google.com/books?id=DGt6CgAAQBAJ&pg=PAfrontcover#v=onepage&q&f=false)\]
 
-Kennedy, Robert F. _Thirteen Days: A Memoir of the Cuban Missile Crisis_. W.W. Norton and Co., 1999. ISBN: 9780393318340. \[Preview with {{% resource_link "311703f8-146a-485b-9813-31c015fd941e" "Google Books" %}}\]
+Kennedy, Robert F. _Thirteen Days: A Memoir of the Cuban Missile Crisis_. W.W. Norton and Co., 1999. ISBN: 9780393318340. \[Preview with [Google Books](https://books.google.com/books?id=mWWAm0h5yP0C&pg=PAfrontcover#v=onepage&q&f=false)\]
 
 I also recommend—but don't require—that students buy a copy of the following book that will improve your papers:
 

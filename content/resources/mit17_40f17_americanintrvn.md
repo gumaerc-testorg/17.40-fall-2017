@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding American foreign policy
   lecture slides: American interventions.'
 file: /courses/17-40-american-foreign-policy-past-present-and-future-fall-2017/26b2a026526e557a13a3031ba978afee_MIT17_40F17_AmericanIntrvn.pdf
+file_size: 100748
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding American foreign policy
   lecture slides: Spiral model vs deterrence model.'
 file: /courses/17-40-american-foreign-policy-past-present-and-future-fall-2017/c728b4f5e28d681fe763a6e1bfc6ac95_MIT17_40F17_SpiralVsDetern.pdf
+file_size: 225035
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
