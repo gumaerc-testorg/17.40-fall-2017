@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding American foreign policy
   lecture slides: United States and WWI.'
 file: /courses/17-40-american-foreign-policy-past-present-and-future-fall-2017/c8dccbc84f5790e53b516b0160850d06_MIT17_40F17_WorldWarI.pdf
+file_size: 543594
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
