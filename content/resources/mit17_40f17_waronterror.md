@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding American foreign policy
   lecture slides: War on terror, September 11th to present.'
-file: /courses/17-40-american-foreign-policy-past-present-and-future-fall-2017/ecb52be5ddcbce58ab9e2287e1ca5578_MIT17_40F17_WarOnTerror.pdf
+file: /ol-ocw-studio-app/courses/17-40-american-foreign-policy-past-present-and-future-fall-2017/ecb52be5ddcbce58ab9e2287e1ca5578_MIT17_40F17_WarOnTerror.pdf
 file_size: 107845
 file_type: application/pdf
 learning_resource_types:
