@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding American foreign policy
   lecture slides: United States and world war II.'
-file: /courses/17-40-american-foreign-policy-past-present-and-future-fall-2017/e0873f56b92ebc5a5f74942bd4d68754_MIT17_40F17_WorldWarII.pdf
+file: /ol-ocw-studio-app/courses/17-40-american-foreign-policy-past-present-and-future-fall-2017/e0873f56b92ebc5a5f74942bd4d68754_MIT17_40F17_WorldWarII.pdf
 file_size: 648190
 file_type: application/pdf
 learning_resource_types:
