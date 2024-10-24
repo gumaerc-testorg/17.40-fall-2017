@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding American foreign policy
   lecture slides: Vietnam war.'
-file: /courses/17-40-american-foreign-policy-past-present-and-future-fall-2017/8931efe007498b0259aa116adc856d2d_MIT17_40F17_VietnamWar.pdf
+file: /ol-ocw-studio-app/courses/17-40-american-foreign-policy-past-present-and-future-fall-2017/8931efe007498b0259aa116adc856d2d_MIT17_40F17_VietnamWar.pdf
 file_size: 96532
 file_type: application/pdf
 learning_resource_types:
