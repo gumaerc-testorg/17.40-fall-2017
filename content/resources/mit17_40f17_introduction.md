@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding American foreign policy
   lecture slides: Introduction.'
-file: /ol-ocw-studio-app/courses/17-40-american-foreign-policy-past-present-and-future-fall-2017/2c558f6a53d87fc1719e85a7b6fa67ed_MIT17_40F17_Introduction.pdf
+file: /courses/17-40-american-foreign-policy-past-present-and-future-fall-2017/2c558f6a53d87fc1719e85a7b6fa67ed_MIT17_40F17_Introduction.pdf
 file_size: 653244
 file_type: application/pdf
 learning_resource_types:
