@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding American foreign policy
   lecture slides: Cuban missile crisis.'
-file: /ol-ocw-studio-app/courses/17-40-american-foreign-policy-past-present-and-future-fall-2017/6ced92418abc59ed18d30f4778cfc9b9_MIT17_40F17_CubnMisileCris.pdf
+file: /courses/17-40-american-foreign-policy-past-present-and-future-fall-2017/6ced92418abc59ed18d30f4778cfc9b9_MIT17_40F17_CubnMisileCris.pdf
 file_size: 106861
 file_type: application/pdf
 learning_resource_types:
