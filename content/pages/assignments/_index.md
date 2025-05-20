@@ -1,26 +1,24 @@
 ---
 content_type: page
 description: This section includes the course assignments.
+draft: false
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
 title: Assignments
 uid: ba7eb892-ef03-de90-41d8-0aa5367823eb
 ---
-
-Assignments Overview
---------------------
+## Assignments Overview
 
 Your grade in this course depends upon:
 
-*   Section participation / presentations
-*   Two ungraded 2-page papers
-*   Two 8-page papers
+- Section participation / presentations
+- Two ungraded 2-page papers
+- Two 8-page papers
 
-Section Presentations: What They Are
-------------------------------------
+## Section Presentations: What They Are
 
-Top policy makers are often asked to present their views on important foreign and security policy matters to the [National Security Council (NSC)](https://www.whitehouse.gov/nsc/), the key Executive Branch forum where such matters are discussed. In our sections you will also be asked to present to the NSC. As in a real NSC appearance you will give a short presentation and then you will be questioned by an opinionated and perhaps skeptical panel that includes the President of the United States and some Cabinet officers. You should assume that the meeting is held in tight secrecy. There is no point in playing to the cameras because there aren't any. But you better impress the President or he/she might fire you!
+Top policy makers are often asked to present their views on important foreign and security policy matters to the [National Security Council (NSC)](https://www.whitehouse.gov/presidential-actions/2025/01/organization-of-the-national-security-council-and-subcommittees/), the key Executive Branch forum where such matters are discussed. In our sections you will also be asked to present to the NSC. As in a real NSC appearance you will give a short presentation and then you will be questioned by an opinionated and perhaps skeptical panel that includes the President of the United States and some Cabinet officers. You should assume that the meeting is held in tight secrecy. There is no point in playing to the cameras because there aren't any. But you better impress the President or he/she might fire you!
 
 Your presentation will last five (5) minutes. If you run over you may be cut off. Your presentation should include (1) an argument, and (2) supporting evidence or reasoning. Your TA and your fellow students will then pose questions and ask you to address counter-arguments, in role as NSC members. Be prepared to defend your argument with deductive or historical evidence. You choose the topic of your presentation. You can make an argument that reacts to an issue raised in class or in the course readings, or you can address a subject of special concern to you. Your presentation can overlap with your paper topic.
 
@@ -28,12 +26,11 @@ We suggest that you bring an outline of your presentation and either hand it out
 
 The NSC sometimes hears differing views in its deliberations. Accordingly we will try to organize presentations as debates between two members of the section who frame different views of an issue. Reminder: you are also required to provide your TA with a two-page (double-spaced) paper summarizing your talk, due on the day you speak.
 
-Papers
-------
+## Papers
 
 Students will write two short ungraded papers-a response paper that reacts to a course reading or lecture or class discussion, and a paper summarizing your in-section presentation-and two longer papers on questions arising from the course material. The two ungraded papers each will be two pages long, double-spaced. The longer papers will be 8 pages. One 8-page paper assignment asks you to explain a past case of American conduct-what accounts for American behavior? A second 8-page assignment asks you to evaluate a past American policy: was the policy appropriate, or would another policy have produced better results? However, we are flexible about paper topics. You can negotiate your paper topics with us if you want to write on another subject.
 
-_Two Ungraded Papers_
+*Two Ungraded Papers*
 
 Your ungraded response paper is due by Session 8. Your ungraded talk-summary paper is due on the day you present your talk. 
 
@@ -43,10 +40,10 @@ Somewhere in your paper-preferably at the beginning-please offer a 1-2 sentence 
 
 Your papers may be improved by keeping up with current international affairs during the semester. Four publications offer especially good international coverage: [The New York Times](https://www.nytimes.com/), [The Washington Post](https://www.washingtonpost.com/), [Financial Times](https://www.ft.com/), and [The Economist](https://www.economist.com/) (a weekly). The websites of the [British Broadcasting Corporation (BBC)](http://www.bbc.com/) and [National Public Radio (NPR)](https://www.npr.org/) are also valuable.
 
-_Two 8-page Papers_
+*Two 8-page Papers*
 
 Your first 8-page paper is due at the beginning of Session 17. Your second 8-page paper is due at the beginning of Session 23.
 
 We require that you submit a finished draft of at least one of your 8-page papers eight days before its due date in order to get comments for rewrite from your TA. You are wise to submit both papers to your TA for comments. So leave yourself time to get comments on drafts of the 8-page papers from your TA before you submit final drafts.
 
-For detailed information on the graded papers, see {{% resource_link e051eeb7-5107-0e83-50cd-612e562c1b90 "First Paper Assignment" %}} and {{% resource_link 3ff7cc41-0bef-b9ee-5efc-9d3047fe99eb "Second Paper Assignment" %}}.
+For detailed information on the graded papers, see {{% resource_link "e051eeb7-5107-0e83-50cd-612e562c1b90" "First Paper Assignment" %}} and {{% resource_link "3ff7cc41-0bef-b9ee-5efc-9d3047fe99eb" "Second Paper Assignment" %}}.

@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding American foreign policy
   lecture slides: U.S. national security policy.'
-file: /ol-ocw-studio-app/courses/17-40-american-foreign-policy-past-present-and-future-fall-2017/b3671d7ee8c095fb759a0a0932484ec5_MIT17_40F17_NatonlSecurity.pdf
+file: /courses/17-40-american-foreign-policy-past-present-and-future-fall-2017/b3671d7ee8c095fb759a0a0932484ec5_MIT17_40F17_NatonlSecurity.pdf
 file_size: 106991
 file_type: application/pdf
 learning_resource_types:

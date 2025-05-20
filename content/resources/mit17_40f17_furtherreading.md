@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about bibliography.
-file: /ol-ocw-studio-app/courses/17-40-american-foreign-policy-past-present-and-future-fall-2017/32ae4afc9ec7bcc35ec0332a31edffec_MIT17_40F17_FurtherReading.pdf
+file: /courses/17-40-american-foreign-policy-past-present-and-future-fall-2017/32ae4afc9ec7bcc35ec0332a31edffec_MIT17_40F17_FurtherReading.pdf
 file_size: 338222
 file_type: application/pdf
 learning_resource_types:
