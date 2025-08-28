@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding American foreign policy
   lecture slides: Predicting the future.'
-file: /courses/17-40-american-foreign-policy-past-present-and-future-fall-2017/df2f01d4cfdb35c06167b04ac7e234b3_MIT17_40F17_PredictingFutr.pdf
+file: /ol-ocw-studio-app/courses/17-40-american-foreign-policy-past-present-and-future-fall-2017/df2f01d4cfdb35c06167b04ac7e234b3_MIT17_40F17_PredictingFutr.pdf
 file_size: 92586
 file_type: application/pdf
 learning_resource_types:

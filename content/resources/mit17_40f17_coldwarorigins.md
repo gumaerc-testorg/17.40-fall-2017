@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding American foreign policy
   lecture slides: Cold war origins and Korean war intervention.'
-file: /courses/17-40-american-foreign-policy-past-present-and-future-fall-2017/2906ad713dcc3fa5000903c6fa08a8a4_MIT17_40F17_ColdWarOrigins.pdf
+file: /ol-ocw-studio-app/courses/17-40-american-foreign-policy-past-present-and-future-fall-2017/2906ad713dcc3fa5000903c6fa08a8a4_MIT17_40F17_ColdWarOrigins.pdf
 file_size: 75687
 file_type: application/pdf
 learning_resource_types:
