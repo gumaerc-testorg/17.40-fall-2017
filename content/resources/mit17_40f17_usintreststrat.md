@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding American foreign policy
   lecture slides: U.S. interests and grand strategies.'
-file: /courses/17-40-american-foreign-policy-past-present-and-future-fall-2017/71b4b427de49bdefd715d7c10b1d997c_MIT17_40F17_USIntrestStrat.pdf
+file: /ol-ocw-studio-app/courses/17-40-american-foreign-policy-past-present-and-future-fall-2017/71b4b427de49bdefd715d7c10b1d997c_MIT17_40F17_USIntrestStrat.pdf
 file_size: 99971
 file_type: application/pdf
 learning_resource_types:
