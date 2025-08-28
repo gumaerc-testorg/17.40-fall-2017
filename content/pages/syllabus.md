@@ -1,6 +1,6 @@
 ---
 content_type: page
-description: ''
+description: syllabus
 draft: false
 title: Syllabus
 uid: 6c3ab209-5288-f26d-340a-56f85d8f99c4
@@ -29,49 +29,49 @@ CI courses, including 17.40, require 20 pages of writing, require early submissi
 
 ## Format and Requirements
 
-_Class Format_
+*Class Format*
 
 The class has two 1-hour general meetings and one 1-hour discussion section meeting per week. Students are expected to complete required readings before each discussion section meeting and to attend section regularly. Section attendance is mandatory. Unexcused absence from section will be penalized.
 
-Sections will include a public speaking exercise in the format of mock presentations to the [National Security Council (NSC)](https://www.whitehouse.gov/nsc/). You will be asked to frame and defend to the Council a viewpoint on a foreign policy issue.
+Sections will include a public speaking exercise in the format of mock presentations to the [National Security Council (NSC)](https://www.usa.gov/agencies/national-security-council). You will be asked to frame and defend to the Council a viewpoint on a foreign policy issue.
 
-_Writing Requirement_
+*Writing Requirement*
 
 Students will write two short ungraded papers—a response paper that reacts to a course reading or lecture or class discussion, and a paper summarizing your in-section presentation—and two longer papers on questions arising from the course material. The two ungraded papers each will be two pages long, double spaced. The longer papers will be 8 pages. One 8-page paper assignment asks you to explain a past case of American conduct—what accounts for American behavior? A second 8-page assignment asks you to evaluate a past American policy: was the policy appropriate, or would another policy have produced better results?
 
-_Quizzes_
+*Quizzes*
 
 Two short (15 minute) quizzes will be given. Quiz dates are Session #9 and Session #20. You will be asked to answer three short (define-and-identify) questions on each quiz.
 
-_Final Exam_
+*Final Exam*
 
-A list of {{% resource_link 81f4b838-6612-1700-7737-3c99684ca142 "study questions" %}} will be circulated before the final. The final exam questions will be drawn from this list. Students are encouraged to study together to prepare their answers. The final will also include short-answer questions that will not be distributed in advance.
+A list of {{% resource_link "81f4b838-6612-1700-7737-3c99684ca142" "study questions" %}} will be circulated before the final. The final exam questions will be drawn from this list. Students are encouraged to study together to prepare their answers. The final will also include short-answer questions that will not be distributed in advance.
 
-_Films_
+*Films*
 
 A couple of optional evening film showings will be organized during the term, on topics to be chosen by acclamation of the class. Topics could include the Cuban Missile Crisis, the Vietnam War, Iraq, nuclear war, or other subjects. Some of the films to be shown include:
 
-[_Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb_](http://www.imdb.com/title/tt0057012/?ref_=nv_sr_2). Directed by Stanley Kubrick. Black and white, 95 min. 1964.
+[*Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb*](http://www.imdb.com/title/tt0057012/?ref_=nv_sr_2). Directed by Stanley Kubrick. Black and white, 95 min. 1964.
 
-[_Eye in the Sky_](http://www.imdb.com/title/tt2057392/?ref_=fn_tt_tt_1). Directed by Gavin Hood. Color, 102 min. 2015.
+[*Eye in the Sky*](http://www.imdb.com/title/tt2057392/?ref_=fn_tt_tt_1). Directed by Gavin Hood. Color, 102 min. 2015.
 
 ## Textbooks
 
- Paterson, Thomas G., J. Garry Clifford, Robert Brigham, et al. _American Foreign Relations: A History, Volume 2: Since 1895._ 8th edition. Wadsworth Publishing, 2014. ISBN: 9781285433332. 
+ Paterson, Thomas G., J. Garry Clifford, Robert Brigham, et al. *American Foreign Relations: A History, Volume 2: Since 1895.* 8th edition. Wadsworth Publishing, 2014. ISBN: 9781285433332. 
 
-Gaddis, John Lewis. _Strategies of Containment: A Critical Appraisal of American National Security Policy during the Cold War_. Oxford University Press, 2005. ISBN: 9780195174472. \[Preview with [Google Books](https://books.google.com/books?id=4KWNMBsI588C&pg=PAfrontcover#v=onepage&q&f=false)\]
+Gaddis, John Lewis. *Strategies of Containment: A Critical Appraisal of American National Security Policy during the Cold War*. Oxford University Press, 2005. ISBN: 9780195174472. \[Preview with [Google Books](https://books.google.com/books?id=4KWNMBsI588C&pg=PAfrontcover#v=onepage&q&f=false)\]
 
-Herring, George C. _America's Longest War: The United States and Vietnam, 1950–1975_. 5th edition. McGraw-Hill, 2013. ISBN: 9780073513256. \[Preview with [Google Books](https://books.google.com/books?id=DGt6CgAAQBAJ&pg=PAfrontcover#v=onepage&q&f=false)\]
+Herring, George C. *America's Longest War: The United States and Vietnam, 1950–1975*. 5th edition. McGraw-Hill, 2013. ISBN: 9780073513256. \[Preview with [Google Books](https://books.google.com/books?id=DGt6CgAAQBAJ&pg=PAfrontcover#v=onepage&q&f=false)\]
 
-Kennedy, Robert F. _Thirteen Days: A Memoir of the Cuban Missile Crisis_. W.W. Norton and Co., 1999. ISBN: 9780393318340. \[Preview with [Google Books](https://books.google.com/books?id=mWWAm0h5yP0C&pg=PAfrontcover#v=onepage&q&f=false)\]
+Kennedy, Robert F. *Thirteen Days: A Memoir of the Cuban Missile Crisis*. W.W. Norton and Co., 1999. ISBN: 9780393318340. \[Preview with [Google Books](https://books.google.com/books?id=mWWAm0h5yP0C&pg=PAfrontcover#v=onepage&q&f=false)\]
 
 I also recommend—but don't require—that students buy a copy of the following book that will improve your papers:
 
-Turabian, Kate L. _A Manual for Writers of Research Papers, Theses, and Dissertations: Chicago Style for Students and Researchers_. 7th edition. University of Chicago Press, 2007. ISBN: 9780226823379. 
+Turabian, Kate L. *A Manual for Writers of Research Papers, Theses, and Dissertations: Chicago Style for Students and Researchers*. 7th edition. University of Chicago Press, 2007. ISBN: 9780226823379. 
 
 Turabian frames basic rules for formatting footnotes and other style rules. Follow these rules and your writing will look spiffy and professional.
 
-For additional readings, see the {{% resource_link 7c002606-d998-55aa-4912-3d919e518bce "Readings" %}} section.
+For additional readings, see the {{% resource_link "7c002606-d998-55aa-4912-3d919e518bce" "Readings" %}} section.
 
 ## Grading Policy
 
@@ -99,4 +99,4 @@ Final exam
 30%
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-Students must also complete two ungraded two-page papers, one that reacts to class readings or lectures, and one that summarizes their in-class presentation. For more detail, see the {{% resource_link ba7eb892-ef03-de90-41d8-0aa5367823eb "Assignments" %}} section.
+Students must also complete two ungraded two-page papers, one that reacts to class readings or lectures, and one that summarizes their in-class presentation. For more detail, see the {{% resource_link "ba7eb892-ef03-de90-41d8-0aa5367823eb" "Assignments" %}} section.
